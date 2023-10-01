@@ -2,6 +2,8 @@
 
 Este é um projeto criado para praticar habilidades em HTML, CSS e JavaScript, focado nos personagens do anime/mangá One Piece.
 
+![Capa](https://i.imgur.com/1Qkezlq.png)
+
 ## Site
 
 Você pode acessar o site do projeto [aqui](https://cldaniel101.github.io/projeto-one-piece/).
